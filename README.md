@@ -10,3 +10,5 @@ An open source Minecraft Launcher that supports multiple profiles, modpacks, mob
 ##### [`net/api`](https://github.com/BlazingTide/LauncherProject/tree/main/net/api) -> The REST Api written in Kotlin & utilizes Ktor. Serves & receives metrics data aswell as facilitates Mod & Modpack data alongside creation of such modpacks
 ##### [`net/frontend`](https://github.com/BlazingTide/LauncherProject/tree/main/net) -> The frontend which contains the website *(TDB)*.
   
+## Launcher Mockups
+![image](https://user-images.githubusercontent.com/45052821/202879254-39c44586-1232-4079-89a2-6eff2dbb5e03.png)
